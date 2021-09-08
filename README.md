@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=blackout314" />
+
 ### Hi there 👋 ###
 
 - 🔭 I’m currently working on _Mearete SA_
