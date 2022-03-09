@@ -17,6 +17,11 @@
 - 😄 Pronouns: ...
 -->
 
+### Stack
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![php](https://img.shields.io/badge/Php-8993BE?style=for-the-badge&logo=php&logoColor=white)
+
 ### ⚡ Github Stats
  <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=blackout314&theme=darkhub">
