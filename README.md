@@ -1,6 +1,4 @@
-<img align="right" src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=blackout314" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=blackout314" />
 
 ### Hi there 👋 ###
 
@@ -18,6 +16,9 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
+
+<img align="right" src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/>
+
 
 ### Stack
 
