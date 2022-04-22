@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/blackout314"><img src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/blackout314"><img src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/></a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=blackout314" />
 
