@@ -17,13 +17,12 @@
 - 😄 Pronouns: ...
 -->
 
-<img align="right" src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/>
-
-
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![php](https://img.shields.io/badge/Php-8993BE?style=for-the-badge&logo=php&logoColor=white)
+
+<img  src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/>
 
 ### ⚡ Github Stats
  <p align="center">
