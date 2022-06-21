@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=blackout314" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=blackout314" /> -->
 
 ### Hi there 👋 ###
 
@@ -21,7 +21,9 @@
 
 <img  src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/>
 
+
 ### ⚡ Github Stats
+<!--
  <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=blackout314&theme=darkhub">
 <br><br>
@@ -33,6 +35,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackout314&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
+-->
 
 <table>
   <tr>
@@ -43,6 +46,7 @@
   </td>
   </tr>
 </table>
+
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
