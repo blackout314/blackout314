@@ -2,7 +2,7 @@
 
 ### Hi there 👋 ###
 
-- 🔭 I’m currently working on _Mearete SA_
+- 🔭 I’m currently working on _Localpoint SA_
 - 📫 How to reach me: blackout _at_ altervista _dot_ org
 - ⚡ Fun fact: i'm grumpy
 
