@@ -17,7 +17,7 @@
 - 😄 Pronouns: ...
 -->
 
-### Daily.dev
+### 🌱 Daily.dev
 
 <details>
  <summary>daily.dev</summary>
@@ -40,6 +40,9 @@
 </table>
 -->
 
+<details>
+ <summary>github stats</summary>
+ 
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackout314&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
@@ -50,6 +53,7 @@
   </tr>
 </table>
 
+</details>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
