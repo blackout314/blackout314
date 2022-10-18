@@ -19,8 +19,11 @@
 
 ### Daily.dev
 
-<img  src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/>
+<details>
+ <summary>daily.dev</summary>
 
+<img  src="https://api.daily.dev/devcards/a95492cc62bd4e8790a0d602a999c925.png?r=zyi" width="400" alt="carlo denaro's Dev Card"/>
+</details>
 
 ### ⚡ Github Stats
 <!--
@@ -47,14 +50,6 @@
   </tr>
 </table>
 
-<details>
- <summary>View Response</summary>
- 
- ```
- yo
- ```
- 
-</details>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
