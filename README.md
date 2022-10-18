@@ -47,6 +47,14 @@
   </tr>
 </table>
 
+<details>
+ <summary>View Response</summary>
+ 
+ ```
+ yo
+ ```
+ 
+</details>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
