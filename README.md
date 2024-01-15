@@ -1,8 +1,6 @@
 ![head](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=blackout314%20-%20Carlo%20Denaro&fontSize=60&animation=fadeIn&desc=Developer%20|%20Teacher%20|%20Security%20Researcher)
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=blackout314" /> -->
 
-### Hi there 👋 ###
-
 - 🔭 I’m currently working on _Lastminute.com Group_
 - 📫 How to reach me: blackout _at_ altervista _dot_ org
 - ⚡ Fun fact: i'm grumpy
