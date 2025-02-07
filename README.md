@@ -1,6 +1,7 @@
 ![head](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=blackout314%20-%20Carlo%20Denaro&fontSize=60&animation=fadeIn&desc=Developer%20|%20Teacher%20|%20Security%20Researcher)
 
 <a href="www.linkedin.com/in/carlodenaro"><img src="https://img.shields.io/badge/carlo_denaro-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAsVBMVEVHcEz7+/vZ2dnt7e3p6en19fXp6enb29v///+tra35+fmhoaHBwcHv7+/09PS5ubmlpaXw8PDz8/P5+fn5+fm/v7/m5uZPT0/v7+/z8/P7+/v09PS4uLj7+/vNzc3ExMSqqqrq6urOzs7////39/e/v7+5ubn////k5OTX19fY2NjV1dXb29vFxcX////////q6ur29varq6vR0dHc3Nz+/v7+/v7////+/v7+/v7z8/NszNyNAAAAN3RSTlMA/hKTWtA0DZQE8gi8nckfD/4i+3ee1wWgzYtNX+ecxCn96dJFa0HrgVlE0vbTxRTlcjXw9zvY8xqPBAAAANBJREFUKM/VkdkOgjAQRVuRTVCKCyjKIov7htuQ/v+HOSTG8NDyZoz3oTPtyZ12poR8XSazWqgzOdoruTdajty9I8MdrwJwdzKsDwAg1KTV8yddj03524a51kJN3/cRmxaKEJZcE9bEhW3bE0ZWdXAWcXpL40WjmuJy7nVIF8MlunNKKT8UDYyNqYgpwGiJC4p6jghX1fqU4Rb4VoQhe+jnoLZvhO6y7jPERBHenddTVhH3Rbinvaf8p3iGePr5z7lhGKVONAzBEA+sErMu+bFel4YlmBtyA80AAAAASUVORK5CYII="/></a>
+<a href="https://stackoverflow.com/users/4428662/carlo-denaro"><img src="https://img.shields.io/badge/carlo_denaro-red?logo=stackoverflow" /></a>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=blackout314" /> -->
 
